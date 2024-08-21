@@ -1,0 +1,26 @@
+
+.form-submit{
+    background-color: rgb(254, 236, 236);
+    padding: 20px;
+    gap:10px;
+    border-radius: 10px;
+    }
+button{
+    margin-top: 20px;
+    width: 300px;
+    border: none;
+    background-color: cornflowerblue;
+}
+label{
+    margin: 15px;
+    color: rgb(3, 32, 49);
+    font-weight: bold;
+}
+input{
+    width: 250px;
+    display: inline;
+    margin-left: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    color: teal;
+}
