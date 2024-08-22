@@ -44,10 +44,7 @@ const DynamicForm = () => {
             ref={nameRef}
             placeholder="Enter your name"
           />
-          {/* <dl>
-            <dt>Name</dt>
-            <dd><input type="text" placeholder='Enter your name' ref={nameRef} /></dd>
-          </dl> */}
+          
         </div>
 
         <div>
